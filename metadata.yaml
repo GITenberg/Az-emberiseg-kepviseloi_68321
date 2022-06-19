@@ -1,0 +1,41 @@
+_repo: Az-emberiseg-kepviseloi_68321
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wildner, Ödön
+    alias: Wildner, Odon
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '53698'
+    url: http://www.gutenberg.org/2009/agents/53698
+    wikipedia: https://hu.wikipedia.org/wiki/Wildner_%C3%96d%C3%B6n
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, Waldo
+    - Emerson, R. Waldo (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2022-06-15'
+identifiers:
+  gutenberg: '68321'
+language: hu
+pgterms:marc905: 20220531055228emerson
+pgterms:marc906: '1923'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: Hungary :Franklin-Társulat,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az emberiség képviselői
+url: http://www.gutenberg.org/ebooks/68321
